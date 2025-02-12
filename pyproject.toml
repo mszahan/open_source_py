@@ -1,5 +1,5 @@
 [project]
-name = "open-source-py"
+name = "reminder"
 version = "0.1.0"
 description = "This is the first open source python project"
 authors = [
@@ -22,4 +22,5 @@ pytest = "^8.3.4"
 black = "^25.1.0"
 flake8 = "^7.1.1"
 pre-commit = "^4.1.0"
+tox = "^4.24.1"
 
